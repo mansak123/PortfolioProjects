@@ -7,3 +7,9 @@ I'm looking for a new challenge as a data analyst right now. I have a deep passi
 
 ---
 
+Note
+- Canada14 / Repatriated Travellers
+- New Zealand2 / Niue
+- China12 / Henan
+- australia6 / Tasmania
+- China3 / Gansu
